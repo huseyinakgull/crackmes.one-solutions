@@ -5,6 +5,7 @@ Kullanıcı adını bulmak için temizlenen çıktı üzerinde bu iki noktaya br
 ![image](https://github.com/thatshussain/crackmes.one-solutions/assets/48627621/ab7168fb-a9b9-42c0-98ac-68f05000ceb5)
 Şifreyi bulmak adına kullanıcı adının doğru yazıldığı fakat şifrenin yanlış olduğu döngüyü takip ederek belirlenen yerlere breakpoint bırakıyoruz.
 ![image](https://github.com/thatshussain/crackmes.one-solutions/assets/48627621/20c986ff-a292-4f5a-977d-4d8be30adb64)
+[hr]
 ### https://crackmes.one/crackme/648b46d733c5d43938913913
 Herhangi bir şekilde şifrelenmemiş, dnSpy ile çözümlendiği an ortaya 20. satırda bulunan kullanıcıya ait bilgiler ortaya çıkıyor.
 ![image](https://github.com/thatshussain/crackmes.one-solutions/assets/48627621/b8a47ed7-065b-4543-9971-6b258e056464)
