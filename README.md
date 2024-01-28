@@ -22,4 +22,5 @@ Dosya içerisinde bulunan .dll uzantılı dosyayı dnSpy'da açıp direkt olarak
 # https://crackmes.one/crackme/628ab7af33c5d45b75903ab4
 
 Herhangi bir şifreleme yok, ana .exe uzantılı uygulamayı dnSpy'a aktarıp "bunifuButton1_Click" fonksiyonunu inceleyerek "8103535" sonucuna erişebilirsiniz.
+
 ![image](https://github.com/thatshussain/crackmes.one-solutions/assets/48627621/e11f64d4-c0fe-4ade-8567-04c70ddefeb7)
