@@ -13,3 +13,8 @@ Kullanıcı adını bulmak için temizlenen çıktı üzerinde bu iki noktaya br
 
 Herhangi bir şekilde şifrelenmemiş, dnSpy ile çözümlendiği an ortaya 20. satırda bulunan kullanıcıya ait bilgiler ortaya çıkıyor.
 ![image](https://github.com/thatshussain/crackmes.one-solutions/assets/48627621/b8a47ed7-065b-4543-9971-6b258e056464)
+
+# https://crackmes.one/crackme/658ccd59edd4fa11fcd59bf3
+
+Dosya içerisinde bulunan .dll uzantılı dosyayı dnSpy'da açıp direkt olarak gerekli satırlara erişebilirsiniz.
+![image](https://github.com/thatshussain/crackmes.one-solutions/assets/48627621/cdd9b5f5-64ff-4f55-99c3-d15af0866dd1)
