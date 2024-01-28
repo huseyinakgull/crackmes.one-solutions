@@ -18,3 +18,8 @@ Herhangi bir şekilde şifrelenmemiş, dnSpy ile çözümlendiği an ortaya 20. 
 
 Dosya içerisinde bulunan .dll uzantılı dosyayı dnSpy'da açıp direkt olarak gerekli satırlara erişebilirsiniz.
 ![image](https://github.com/thatshussain/crackmes.one-solutions/assets/48627621/cdd9b5f5-64ff-4f55-99c3-d15af0866dd1)
+
+# https://crackmes.one/crackme/628ab7af33c5d45b75903ab4
+
+Herhangi bir şifreleme yok, ana .exe uzantılı uygulamayı dnSpy'a aktarıp "bunifuButton1_Click" fonksiyonunu inceleyerek "8103535" sonucuna erişebilirsiniz.
+![image](https://github.com/thatshussain/crackmes.one-solutions/assets/48627621/e11f64d4-c0fe-4ade-8567-04c70ddefeb7)
