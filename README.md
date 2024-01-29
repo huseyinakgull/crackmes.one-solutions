@@ -27,3 +27,11 @@ Herhangi bir şifreleme yok, ana .exe uzantılı uygulamayı dnSpy'a aktarıp "b
 
 # https://crackmes.one/crackme/641d471733c5d447bc761c04
 https://www.youtube.com/watch?v=fA8H_xInTuQ
+
+# https://crackmes.one/crackme/647d3ade33c5d43938913668
+AntiDecompiler Cleaner ile temizleyince direkt olarak uygulamaya ait ana methodların içerisinde sonuç karşımızda çıkıyor.
+
+![image](https://github.com/thatshussain/crackmes.one-solutions/assets/48627621/cd9984a8-29a2-456d-bc88-839bbd7c71cf)
+
+
+
