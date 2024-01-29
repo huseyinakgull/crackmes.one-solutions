@@ -33,5 +33,8 @@ AntiDecompiler Cleaner ile temizleyince direkt olarak uygulamaya ait ana methodl
 
 ![image](https://github.com/thatshussain/crackmes.one-solutions/assets/48627621/cd9984a8-29a2-456d-bc88-839bbd7c71cf)
 
+# https://crackmes.one/crackme/62265a2233c5d46c8bcc019f
 
+Cleaner ile temizleyin, dnSpy ile giriş yapıp button1_Click methoduna baktığımızda "string b" değeri açıp hwid adresini önce byte daha sonra Base64 değere çevirerek şifreyi gelen çıktı yapıyor ve "textBox1.Text" ile karşılaştırıyor. Belirli yerlere breakpoint ekleyerek sonuca ulaşabilirsiniz.
+![image](https://github.com/thatshussain/crackmes.one-solutions/assets/48627621/064e5023-c247-41a1-a361-4163ff0e1e6e)
 
